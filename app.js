@@ -1,2 +1,1 @@
-echo  "console.log('Hello from JavaScript  -
-Version 1');"
+echo "// Version 2 Update"
